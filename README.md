@@ -1,1 +1,18 @@
 # shift_register_taller-5
+escribi firt commit kek
+
+esquematica y diseño de pcb del proyecto de shift register de 5º año 2018
+./shift_register/ - directorio del proyecto de eagle con los .sch y .brd
+./docs/ - directorio con las datasheets
+
+
+el proyecto incluye un control para conectar a las entradas de un lado de la pcb y así controlar los registros sin necesidad de pulsadores en una protoboard
+
+<h1>PDF</h1>
+./shift_register.pdf - diseño de pcb principal
+./shift_register-control.pdf - diseño de pcb del control
+./shift_register-components.pdf - pcb principal lado componentes
+./shift_register-control-components.pdf - pcb del control lado componentes
+
+./shiftreg_imprimir.pdf - hoja con 4 copias de cada diseño de pcb para transferir por método de toner
+./shiftreg+control-colorinvert.pdf - hoja con 3 copias del diseño principal y 6 de cada control con colores invertidos para transferir por metodo de papel fotosensible UV
