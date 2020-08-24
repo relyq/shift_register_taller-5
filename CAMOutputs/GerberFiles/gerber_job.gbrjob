@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-08-24T20:59:36Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "shift register"
+        },
+        "Owner": "Nicolas Alejandro Mainenti <nicoale_mainenti@hotmail.es>",
+        "Size": {
+            "X": 91.42,
+            "Y": 75.87
+        }
+    }
+}
