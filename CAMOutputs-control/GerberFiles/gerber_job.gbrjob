@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2020-11-25T15:50:06Z",
+        "CreationDate": "2020-11-26T18:14:49Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -17,7 +17,7 @@
         },
         "Owner": "Nicolas Alejandro Mainenti <nicoale_mainenti@hotmail.es>",
         "Size": {
-            "X": 45.7,
+            "X": 43.16,
             "Y": 30.15
         }
     }

@@ -1,4 +1,4 @@
-Partlist exported from D:/Documents/eagle/shift register/shift register-control.sch at 25/11/2020 12:50
+Partlist exported from D:/Documents/eagle/shift register/shift register-control.sch at 26/11/2020 15:14
 
 Qty Value                           Device                          Package                  Parts              Description                                                                                                     PROD_ID     SF_SKU    VALUE        
 1                                   CONN_02                         1X02                     J2-VCCGND          Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                    
