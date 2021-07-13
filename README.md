@@ -1,5 +1,4 @@
 # shift_register_taller-5
-escribi firt commit kek
 
 esquematica y diseño de pcb del proyecto de shift register de 5º año 2018<br>
 ./shift_register/ - directorio del proyecto de eagle con los .sch y .brd<br>
