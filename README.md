@@ -1,6 +1,8 @@
 # shift_register_taller-5
 
 esquematica y diseño de pcb del proyecto de shift register de 5º año 2018<br>
+./CAMOutputs/ - gerber shift register
+./CAMOutputs-control/ - gerber control
 ./shift_register/ - directorio del proyecto de eagle con los .sch y .brd<br>
 ./docs/ - directorio con las datasheets<br>
 
